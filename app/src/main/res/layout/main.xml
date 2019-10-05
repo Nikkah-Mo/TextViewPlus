@@ -13,7 +13,7 @@
         <phelat.widget.PlusTextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:text="Hello World!! "
             android:gravity="center"
             android:textSize="50sp"
             app:font="Roboto-LightItalic.ttf"/>
